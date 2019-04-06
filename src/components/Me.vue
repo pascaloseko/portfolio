@@ -9,7 +9,7 @@
         <span>Hi</span>, am Pascal
       </h1>
 
-      <h4>Full stack Web Developer based in Nairobi Kenya, I am passionate about Software Development and Programming.</h4>
+      <h4>Full stack Web Developer based in Nairobi Kenya.</h4>
 
       <div class="socialMedia animated fadeInUp">
         <a href="https://github.com/pascaloseko" target="_blank">
