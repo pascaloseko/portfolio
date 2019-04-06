@@ -3,9 +3,9 @@
     <div class="skills-content">
       <div class="skills-header fadeInDown animated">
         <button :class="{'active-btn': (chart==1)}" @click="chart=1">
-          <i class="fas fa-code" style="font-size: 18px;"></i>
-          <p style="font-size: 15px; font-family:teko;">CODING</p>
-        </button>
+          <i class="fas fa-code" style="font-size: 20px;"></i>
+          <p style="font-size: 20px; font-family:teko;">CODING</p>
+        </button><br><br>
       </div>
       <div class="chart-container" v-show="chart==1">
         <canvas id="codingChart" width="300" height="300"></canvas>

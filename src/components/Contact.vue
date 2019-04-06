@@ -176,7 +176,7 @@
  }
 
   .input p{
-    font-size: 10px;
+    font-size: 12px;
     color: #ff4d5a;
     margin-top: 8px;
   
