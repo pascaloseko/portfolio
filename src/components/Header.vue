@@ -2,7 +2,7 @@
   <dir id="Header">
     <nav>
       <router-link to="/">
-        <img src="logo-white.png" alt="no pic" class="logo">
+        <img src="../../src/assets/img/logo-white.png" class="logo">
       </router-link>
 
       <router-link to="/contact" class="items">Contact</router-link>
