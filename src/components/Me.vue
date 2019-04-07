@@ -2,7 +2,7 @@
   <div>
     <div class="home-content">
       <div class="img-container zoomIn animated">
-        <img src="../../src/assets/img/pasco.jpg" alt="" class="me" style="width: 250px">
+        <img src="../../src/assets/img/pasco.jpg" alt="" class="me" style="width: 250px" loading="lazy">
       </div>
 
       <h1>
